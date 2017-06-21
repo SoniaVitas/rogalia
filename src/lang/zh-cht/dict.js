@@ -1407,14 +1407,14 @@ T.dict = {
     "Container can contain only {name}": "Контейнер может содержать только {name}",
     "Lot {name} not found": "Товар {name} не найден",
     "{name} is already a party member": "{name} уже в группе",
-    "{name} is already in your blacklist": "{name} уже в чёрном списке",
-    "{name} is already in your friendlist": "{name} уже в списке друзей",
+    "{name} is already in your blacklist": "{name} уже в чёрном списке",{name}已在黑名單上
+    "{name} is already in your friendlist": "{name} уже в списке друзей",{name}已在好友名單上
     "{name} is ignoring you": "{name} вас игнорирует",
     "{name} is in another party": "{name} в другой группе",
-    "{name} is not in your blacklist": "{name} отстутствует в вашем чёрном списке",
-    "{name} is not your friend": "{name} не ваш друг",
-    "{name} is offline": "{name} не в сети",
-    "{name} not found": "{name} не найден(а)",
+    "{name} is not in your blacklist": "{name} отстутствует в вашем чёрном списке",{name}不在你的黑名單
+    "{name} is not your friend": "{name} не ваш друг",{name}不是你的好友
+    "{name} is offline": "{name} не в сети", {name}離線了
+    "{name} not found": "{name} не найден(а)",找不到{name}
     "{name} only": "Только {name}",
     "{name} can be used only on soil": "{name} может применяться только на земле",
     "{name} is empty": "{name} пуст",
@@ -1561,7 +1561,7 @@ T.dict = {
     "Prospect": "Разведать",
     "Prospecting": "Разведка руды",
     "Regeneration": "Регенерация",
-    "Cloth": "Ткань",
+    "Cloth": "Ткань",布
     "Ore": "Руда",
     "Shovel": "Лопата",
     "Player corpse": "Труп",
@@ -1589,7 +1589,7 @@ T.dict = {
     "drink something": "выпить что-нибудь",
     "eat something": "съесть что-нибудь",
     "hit a training dummy": "ударить тренировочный манекен",
-    "Cold": "Холодно",
+    "Cold": "Холодно",冷
     "Colder": "Холоднее",
     "Hot": "Тепло",
     "Hotter": "Теплее",
@@ -1752,7 +1752,7 @@ T.dict = {
     "Big indulgence": "Большая индульгенция",
     "First finish teleportaion quests from Plato": "Сначала пройдите квесты про телепортацию у Платона",
     "You can return home only when you have Synod Protection": "Вы можете вернуться домой только под эффектом защиты Синода.",
-    "Attack": "Атака",
+    "Attack": "Атака",攻擊
     "Shredder": "Шреддер",
     "Shred": "Уничтожить содержимое",
     "Commit suicide?": "Совершить самоубийство?",
